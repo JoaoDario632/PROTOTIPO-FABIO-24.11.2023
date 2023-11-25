@@ -1,0 +1,28 @@
+body{
+    background-color: black;
+    color: white;
+    font-family: Arial, sans-serif;
+}
+center{
+    margin-top: 50px;
+}
+iframe{
+    margin-bottom: 20px;
+}
+button{
+    background-color: red;
+    color: white;
+    padding: 10px 20px;
+    font-size: 16px;
+    border: none;
+    cursor: pointer;
+}
+button:hover {
+    background-color: darkred;
+}
+a {
+    text-decoration: none;
+}
+h1 {
+    color: white;
+}
